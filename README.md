@@ -33,6 +33,7 @@ Python · FastAPI · Flask · Streamlit · LangGraph · PostgreSQL / pgvector ·
 - [RFP Proposal Writer interface](https://rfp-proposal-writer-dusky.vercel.app) — document workflow UI; a working backend and configured model provider are needed for generation.
 - [Tax Services Website](https://ahsaan-tax.vercel.app) — frontend example.
 - [Data Storytelling Portfolio](https://ahsaanlab.vercel.app) — frontend and visual presentation example.
+- [Editorial Portfolio](https://ahsaanstudio.vercel.app) — portfolio layout, project imagery, and presentation assets.
 
 ## Let's work together
 
